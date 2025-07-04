@@ -1,0 +1,22 @@
+[
+    {
+        "location": "https://tc39.es/proposal-temporal/",
+        "entries": [
+            {
+                "type": "clause",
+                "number": "Calendar Date Records",
+                "id": "sec-temporal-calendar-date-records"
+            },
+            {
+                "type": "op",
+                "aoid": "CalendarMergeFields",
+                "id": "sec-temporal-calendarmergefields"
+            },
+            {
+                "type": "op",
+                "aoid": "CalendarExtraFields",
+                "id": "sec-temporal-calendarextrafields"
+            }
+        ]
+    }
+]
